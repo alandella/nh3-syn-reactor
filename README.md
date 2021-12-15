@@ -25,4 +25,4 @@ You may choose to modify and improve it to your liking.
 
 ## License
 
-This project is licensed under The MIT License - see the [LICENSE.md](https://github.com/alandella/nh3-syn-reactor/blob/master/LICENSE) file for details.
+This project is licensed under The MIT License - see the [LICENSE.md](https://github.com/alandella/nh3-syn-reactor/blob/main/LICENSE) file for details.
