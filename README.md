@@ -1,4 +1,4 @@
-# nh3-syn-reactor
+# Ammonia Synthesis Reactor
 1D Pseudo-Homogeneous PFR Chemical Reactor for Ammonia Synthesis.
 
 ## Getting Started
