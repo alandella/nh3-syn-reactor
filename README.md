@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue.svg)](#)
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ## General Overview
 This project models a one-dimensional, pseudo-homogeneous plug flow reactor (PFR) for ammonia synthesis. The primary code lives in a Jupyter notebook that gathers thermodynamic properties, reaction kinetics, and data for industrial catalysts.
 
